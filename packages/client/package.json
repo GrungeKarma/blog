@@ -38,7 +38,8 @@
     ]
   },
   "react-dotenv": {
-    "whitelist": ["SECRET_MESSAGE"]
+    "whitelist": [
+      "SECRET_MESSAGE"
+    ]
   }
 }
-
